@@ -1,0 +1,8 @@
+name: SussyActionLogger
+version: '1.0-SNAPSHOT'
+main: org.ajls.sussyActionLogger.SussyActionLogger
+api-version: '1.21'
+commands:
+  s:
+    description: Reload plugin
+    usage: /<command>
